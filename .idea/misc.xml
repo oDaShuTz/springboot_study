@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/properties/pom.xml" />
         <option value="$PROJECT_DIR$/restful/pom.xml" />
         <option value="$PROJECT_DIR$/thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/exception/pom.xml" />
       </list>
     </option>
   </component>
